@@ -12,7 +12,7 @@ A results-driven **Senior DevOps Engineer** with over **5 years of experience** 
 - 🔭 I’m currently working on **Scaling Microservices in Azure**
 - ☁️ Expert in **Azure Cloud & Kubernetes Orchestration**
 - ⚡ Fun fact: I aim for **99.9% uptime** in everything I build.
-- 🔗 Portfolio: [sanjaysundarmurthy-portfolio.vercel.app](https://sanjaysundarmurthy-portfolio.vercel.app)
+- 🔗 Portfolio: [tejascs.vercel.app](https://tejascs.vercel.app)
 
 ---
 
