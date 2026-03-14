@@ -1,4 +1,4 @@
-![Tejas Header](https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:ec4899&height=300&section=header&text=Tejas&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=33&desc=Senior%20DevOps%20Engineer%20|%20Azure%20Expert%20|%20Kubernetes%20Specialist&descAlignY=53&descSize=20)
+![Tejas Header](https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,40:6366f1,100:a855f7&height=300&section=header&text=Tejas&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Senior%20DevOps%20Engineer%20|%20Azure%20Expert%20|%20Kubernetes%20Specialist&descAlignY=53&descSize=22&descColor=ffffff)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
