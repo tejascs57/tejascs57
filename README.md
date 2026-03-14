@@ -73,6 +73,4 @@ A results-driven **Senior DevOps Engineer** with over **5 years of experience** 
 
 ---
 
-### 📊 My GitHub Stats
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:a855f7&height=120&section=footer&animation=twinkling" width="100%"/>
