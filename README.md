@@ -1,4 +1,4 @@
-# Hi there, I'm Tejas C S 👋 
+![Tejas Header](https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:a855f7&height=300&section=header&text=Tejas&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Senior%20DevOps%20Engineer%20|%20Azure%20Expert%20|%20Kubernetes%20Specialist&descAlignY=52&descSize=22&descColor=ffffff)
 ### Senior DevOps Engineer | Azure Expert | Kubernetes Specialist
 
 <p align="left">
